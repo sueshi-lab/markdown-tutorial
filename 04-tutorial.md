@@ -29,6 +29,8 @@
 ### :round_pushpin: ตัวอย่างที่ 11.1
 
 ```
+#### ช่องทางติดตาม BorntoDev
+
 | ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
 | ---- | ---- | ---- |
 | 1 | Facebook | https://www.facebook.com/borntodev |
@@ -37,6 +39,8 @@
 ```
 
 ### :point_right: ผลลัพธ์ที่ได้
+
+#### ช่องทางติดตาม BorntoDev
 
 | ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
 | ---- | ---- | ---- |
@@ -53,6 +57,8 @@
 โดยในส่วนของเส้นคั่นหัวตาราง เราจะใช้ `:--` จัดชิดซ้าย ใช้ `:--:` จัดกึ่งกลาง และใช้ `--:` จัดชิดขวา
 
 ```
+#### ช่องทางติดตาม BorntoDev
+
 | ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
 | :---- | :----: | ----: |
 | 1 | Facebook | https://www.facebook.com/borntodev |
@@ -61,6 +67,8 @@
 ```
 
 ### :point_right: ผลลัพธ์ที่ได้
+
+#### ช่องทางติดตาม BorntoDev
 
 | ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
 | :---- | :----: | ----: |
@@ -84,10 +92,12 @@ BorntoDev :t-rex: | Sunflower :sunflower: | Tomato :tomato:
 
 BorntoDev :t-rex: | Sunflower :sunflower: | Tomato :tomato:
 
-สำหรับ Emoji ต่าง ๆ ส่องเพิ่มเติมได้ที่ https://www.webfx.com/tools/emoji-cheat-sheet/ หรือ https://emojipedia.org/
+:wavy_dash:
 
+--- 
+Emoji ต่าง ๆ ส่องเพิ่มเติมได้ที่ https://www.webfx.com/tools/emoji-cheat-sheet/ หรือ https://emojipedia.org/  
 (การแสดงผลของอิโมจิขึ้นอยู่กับเว็บไซต์/แอปพลิเคชัน/แพลตฟอร์มที่เราใช้งานด้วยนะ :sparkles:)
 
----
+ใครที่อยากรู้ Syntax ของ Markdown บน Github สามารถอ่านเพิ่มเติมได้ที่ [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-สำหรับใครที่อยากรู้ Syntax ของ Markdown บน Github สามารถอ่านเพิ่มเติมได้ที่ [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+:wavy_dash:
