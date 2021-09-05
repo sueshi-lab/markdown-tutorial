@@ -87,3 +87,7 @@ BorntoDev :t-rex: | Sunflower :sunflower: | Tomato :tomato:
 สำหรับ Emoji ต่าง ๆ ส่องเพิ่มเติมได้ที่ https://www.webfx.com/tools/emoji-cheat-sheet/ หรือ https://emojipedia.org/
 
 (การแสดงผลของอิโมจิขึ้นอยู่กับเว็บไซต์/แอปพลิเคชัน/แพลตฟอร์มที่เราใช้งานด้วยนะ :sparkles:)
+
+---
+
+สำหรับใครที่อยากรู้ Syntax ของ Markdown บน Github สามารถอ่านเพิ่มเติมได้ที่ [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
